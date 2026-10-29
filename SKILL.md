@@ -59,6 +59,8 @@ agent_created: true
 4. 给 3 道同型题训练，做完只批思路、不代答。
 5. 记入能力雷达，约定复测时间与题量。
 
+**分值核对**：判断某板块"该丢多少分"之前，先按 `references/sh-exam-patterns.md` 核对当年结构。默写已从 16 分降至 9–13 分、综合运用已升至 20 分（含名著约 10 分），拿旧分值算账会把诊断方向带偏。
+
 产出按 `assets/diagnosis-sheet.md` 的六域结构填，不自由增删字段。
 
 ### B. 现代文阅读单题突破
@@ -105,6 +107,7 @@ agent_created: true
 | `references/classics.md` | 统编必读名著考点卡、名著题问法 |
 | `references/basics.md` | 字音字形、词语成语、病句、标点、修辞、文学常识 |
 | `references/exam-map.md` | 卷面结构、分值分布、六域能力点清单与诊断量表 |
+| `references/sh-exam-patterns.md` | 上海卷 2021–2025 命题规律实证：结构演变、各板块高频题型、作文评分表、一模二模层级差。**判断分值、题型、评分方式前必读** |
 | `assets/diagnosis-sheet.md` | 出诊断单时套用，不自行增删字段 |
 | `assets/answer-template.md` | 出答题纸、踩分点自查表时套用 |
 
